@@ -9,6 +9,6 @@
 </div>
 
 > [!NOTE]
-> 🔭 **What I Like:** Teamwork projects solving real-world issues
-> 👯 **My Hobbies:** Kpop Dancer & Taekwondo Player; Hiking and Travelling
+> 🔥 **What I Like:** Teamwork projects solving real-world issues
+> 🌼 **My Hobbies:** Kpop Dancer & Taekwondo Player; Hiking and Travelling
 > 🍀 **Fun Fact:** I have three cats at home!
