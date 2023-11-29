@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h3>✨ Full Stack Software Developer</h2>
-  <h3>✨ Avid Problem Solver & Team Player</h3>
-  <h3>✨ Senior CS and Applied Math student at Johns Hopkins University</h3>
+  <h3>✨ Full Stack Software Developer✨</h3>
+  <h3>✨ Avid Problem Solver & Team Player✨</h3>
+  <h3>✨ Senior CS and Applied Math student at Johns Hopkins University✨</h3>
 </div>
 
 > [!NOTE]
