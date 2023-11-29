@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 36px; font-weight: bold;">Hi 👋 I'm Siyu Li, but you can call me Tammy!</h1>
+  <h1 style="font-size: 36px; font-weight: bold;">Hi 👋 I'm Siyu Li, or just Tammy!</h1>
 </div>
 
 <div align="center">
