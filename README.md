@@ -5,7 +5,8 @@
 <div align="center">
   <p style="font-size: 16px;">🌟 Full Stack Software Developer </p>
   <p style="font-size: 16px;">💥 Avid Problem Solver & Team Player </p>
-  <p style="font-size: 16px;">✨ Senior CS and Applied Math student at Johns Hopkins University </p>
+  <p style="font-size: 16px;">✨ Currently CIS Master at University of Pennsylvania </p>
+  <p style="font-size: 16px;">✨ Bachelor CS and Applied Math student at Johns Hopkins University </p>
 </div>
 
 > [!NOTE]
